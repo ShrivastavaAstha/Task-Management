@@ -1,0 +1,39 @@
+body{background-image: linear-gradient(45deg, #86e4e4 25%, transparent 25%, transparent 75%, #86e4e4 75%, #86e4e4  100%);
+    background-size: 20px 20px;
+    background-color: #82ece5;
+    font-family: 'Dancing Script', cursive;
+}
+
+button{
+    background-image: linear-gradient(45deg, #077820 25%, transparent 25%, transparent 75%, #077820  75%, #077820  100%);
+    background-size: 20px 20px;
+    background-color: #0c652a;
+    margin-right: 10px;
+    color:White;
+    cursor:pointer;
+    border-radius: 4px;
+}
+button:hover{
+    color:black;
+    background-image: linear-gradient(45deg, #a4aea7 25%, transparent 25%, transparent 75%, #a4aea7  75%, #a4aea7  100%);
+    background-size: 20px 20px;
+    background-color: #ccdcd1;
+    cursor:pointer}
+
+
+.Notes{
+    /* background-image: linear-gradient(45deg, #d8deda 25%, transparent 25%, transparent 75%, #d8deda  75%, #d8deda  100%);
+    background-size: 20px 20px; */
+    background-color: #ccdcd1; 
+    border: 2px solid black;
+    width:270px;
+    overflow: hidden;
+    word-break: break-all;
+    border-radius: 8px;
+
+}
+
+    
+    
+
+    
