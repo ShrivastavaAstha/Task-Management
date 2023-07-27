@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Task-Management/static/css/main.0a9f7613.css",
-    "main.js": "/Task-Management/static/js/main.c168decc.js",
-    "index.html": "/Task-Management/index.html",
-    "main.0a9f7613.css.map": "/Task-Management/static/css/main.0a9f7613.css.map",
-    "main.c168decc.js.map": "/Task-Management/static/js/main.c168decc.js.map"
+    "main.css": "/Patient-Info/static/css/main.deb71194.css",
+    "main.js": "/Patient-Info/static/js/main.ec7f4188.js",
+    "index.html": "/Patient-Info/index.html",
+    "main.deb71194.css.map": "/Patient-Info/static/css/main.deb71194.css.map",
+    "main.ec7f4188.js.map": "/Patient-Info/static/js/main.ec7f4188.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a9f7613.css",
-    "static/js/main.c168decc.js"
+    "static/css/main.deb71194.css",
+    "static/js/main.ec7f4188.js"
   ]
 }
